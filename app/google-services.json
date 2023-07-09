@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31788346039",
+    "project_id": "dwrs-fd3d6",
+    "storage_bucket": "dwrs-fd3d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31788346039:android:be8ee0debc4f3fee0fbb32",
+        "android_client_info": {
+          "package_name": "com.makeandroid.domitorywashingmachinereservationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31788346039-ch7u2pcv0vhtmbd2c1qphv1smcvnof62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRJiWNMKzgsCi7Ruo-OaBcLF7r-Wi3jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31788346039-ch7u2pcv0vhtmbd2c1qphv1smcvnof62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
