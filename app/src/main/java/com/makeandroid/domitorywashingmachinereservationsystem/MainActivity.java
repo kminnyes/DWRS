@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         fragNotifications = new FragNotifications();
         fragPerson = new FragPerson();
 
-        getSupportFragmentManager().beginTransaction().replace(R.id.containers, fragHome).commit();
+        getSupportFragmentManager().beginTransaction().replace(R.id.containers, fragHome).commit(); //교체 매니저 호출, 화면전환 설정, 시작화면 설정, 저장;
 
         NavigationBarView bottomNavigationView = findViewById(R.id.bottom_navi);
         bottomNavigationView.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
