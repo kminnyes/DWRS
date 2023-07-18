@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.2055" />
+        <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/drawable/ic_rightarrow_24.xml" value="0.211" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/drawable/menu_home.xml" value="0.2075" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/drawable/menu_notifications.xml" value="0.219" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/drawable/menu_timeline.xml" value="0.219" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/drawable/round_button.xml" value="0.2075" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/activity_boardmain.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/activity_boardwrite.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/activity_booking1.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/activity_login.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/activity_main.xml" value="0.264" />
@@ -19,6 +21,7 @@
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/frag_person.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/frag_timeline.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/fragment_1.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/layout/post.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/menu/bottom_menu.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/LG/Desktop/DWRS/app/src/main/res/menu/menu_navi.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/LG/Desktop/DomitoryWashingmachineReservationSystem/app/src/main/res/layout/activity_main.xml" value="0.23489583333333333" />

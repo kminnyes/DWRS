@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DomitoryWashingmachineReservationSystem">
         <activity
+            android:name=".BoardwriteActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterbreakdownActivity"
             android:exported="false" />
         <activity

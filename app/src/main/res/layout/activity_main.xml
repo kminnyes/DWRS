@@ -10,14 +10,14 @@
         android:id="@+id/bottom_navi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#DAF0FF"
-        android:minHeight="62dp"
-        app:itemIconTint="#3498DB"
         app:itemIconSize="32dp"
+        app:itemIconTint="#3498DB"
         app:itemTextColor="#3498DB"
-        app:labelVisibilityMode="labeled"
+        android:background="#DAF0FF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:menu="@menu/bottom_menu"
+        app:labelVisibilityMode="labeled"
+        android:minHeight="61dp"
         tools:layout_editor_absoluteX="1dp" />
 
 
